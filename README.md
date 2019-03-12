@@ -11,3 +11,6 @@
 - 박철우
 - - -
 
+교재:
+- [Khan Academy](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#subspace-basis)
+
