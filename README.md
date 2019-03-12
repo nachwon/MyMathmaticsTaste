@@ -1,6 +1,7 @@
 # MyMathematicsTaste
 
-<center><img src="/etcs/선대3.png"></center>
+<center><img src="/etcs/선대1.jpeg" width="50%" height="50%"></center>
+
 
 머신러닝을 위한 수학 & 통계 스터디
 - 일  시: 매주 화요일 오후 6:30 ~ 8:30, Europe
@@ -14,6 +15,8 @@
 - 교재: [Khan Academy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 
 ## 챕터1 스터디 플랜
+
+<center><img src="/etcs/선대3.png"></center>
 
 #### 03/12
 - OT
@@ -49,4 +52,3 @@
 - 발제자 전원 불참시에 **해당 스터디는 취소**하고 다음주로 미룹시다. 해당 듀오는 석고대죄를 합시다.
 - 다들 업무로 바쁜 와중에 끝까지 가는 스터디가 흔치 않은데, 저희는 끝까지 공부해서 마치도록 합시다! 화이팅!
 
-<center><img src="/etcs/선대1.jpeg" width="70%" height="70%"></center>
