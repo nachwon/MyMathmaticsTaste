@@ -12,6 +12,7 @@
     - 손지영
     - 조수영
     - 박철우
+    - 구도원
 - 교재: [Khan Academy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 
 ## 챕터1 스터디 플랜
@@ -40,7 +41,7 @@
     - 1-7. 영공간과 열공간(일부)
 
 #### 04/09
-- 발제자: 미정
+- 발제자: 박철우
 - 챕  터: 
     - 1-7. 영공간과 열공간(마무리)
     - 챕터 끝났닭! 치킨이닭!
