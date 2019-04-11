@@ -15,7 +15,9 @@
     - 구도원
 - 교재: [Khan Academy](https://ko.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 
-##챕터2 스터디 플랜
+## 챕터2 스터디 플랜
+
+<center><img src="/etcs/선대3.png"></center>
 
 #### 04/16
 - 발제자: 박성우, 박철우
@@ -41,9 +43,8 @@
     - 네네치킨 쿠폰 사용
 
 
-## 챕터1 스터디 플랜
 
-<center><img src="/etcs/선대3.png"></center>
+## 챕터1 스터디 플랜
 
 #### 03/12
 - OT
